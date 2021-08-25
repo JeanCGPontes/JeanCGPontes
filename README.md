@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jean Pontes
-- 👀 I’m interested in Python, HTML, CSS and other languages.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Community
+- 👀 I’m interested in Java, Python and other languages.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Python Community and Java Community
 - 📫 How to reach me? jeanestudos.je@gmail.com.
 
 <!---
